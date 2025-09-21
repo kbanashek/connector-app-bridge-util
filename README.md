@@ -353,7 +353,7 @@ connector-app-bridge-util/
 4. Test on both iOS and Android platforms
 5. Update this README with new capabilities
 
-## 📞 Support
+## 📞 App Support - (thats you!)
 
 For issues or questions:
 
@@ -363,8 +363,3 @@ For issues or questions:
 4. **Verify setup**: Ensure Lumiere app is running and accessible
 
 ---
-
-**Version**: 1.0.0  
-**Last Updated**: January 2025  
-**Compatible with**: Lumiere App v1.0+  
-**Platform**: iOS & Android (Expo SDK 54)
