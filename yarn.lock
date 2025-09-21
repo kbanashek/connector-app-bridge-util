@@ -3718,14 +3718,14 @@ react-native-is-edge-to-edge@^1.2.1:
 
 react-native-lx-app-bridge@^0.4.2:
   version "0.4.2"
-  resolved "https://clinicalink-404833863218.d.codeartifact.us-east-1.amazonaws.com/npm/orion-aws-npm-repo/react-native-lx-app-bridge/-/react-native-lx-app-bridge-0.4.2.tgz"
+  resolved "https://clinicalink-404833863218.d.codeartifact.us-east-1.amazonaws.com/npm/orion-aws-npm-repo/react-native-lx-app-bridge/-/react-native-lx-app-bridge-0.4.2.tgz#262c43228881ecb111b0364dbfcc94a6804ceed7"
   integrity sha512-lc9180c62Q3Kamqk0vJwXt00Zjai8UOduHAFw+wjuHfs8BuXn7DVC7j+HbHUHQGd5goZGoOhAP/K57BUEMeDHg==
   dependencies:
     react-native-url-polyfill "^2.0.0"
 
 react-native-url-polyfill@^2.0.0:
   version "2.0.0"
-  resolved "https://clinicalink-404833863218.d.codeartifact.us-east-1.amazonaws.com/npm/orion-aws-npm-repo/react-native-url-polyfill/-/react-native-url-polyfill-2.0.0.tgz"
+  resolved "https://clinicalink-404833863218.d.codeartifact.us-east-1.amazonaws.com/npm/orion-aws-npm-repo/react-native-url-polyfill/-/react-native-url-polyfill-2.0.0.tgz#db714520a2985cff1d50ab2e66279b9f91ffd589"
   integrity sha512-My330Do7/DvKnEvwQc0WdcBnFPploYKp9CYlefDXzIdEaA+PAhDYllkvGeEroEzvc4Kzzj2O4yVdz8v6fjRvhA==
   dependencies:
     whatwg-url-without-unicode "8.0.0-3"
