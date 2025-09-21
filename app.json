@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "ConnectorAppBridge-Util",
+    "slug": "connector-app-bridge-util",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.clinicalink.connectorappbridgeutil",
+      "entitlements": {
+        "com.apple.security.application-groups": [
+          "group.com.clinicalink.Connector"
+        ]
+      }
+    },
+    "android": {
+      "package": "com.clinicalink.connectorappbridgeutil"
+    },
+    "scheme": "connector-app-bridge-util",
+    "plugins": ["expo-dev-client", "expo-font"],
+    "extra": {
+      "eas": {
+        "projectId": null
+      }
+    }
+  }
+}
